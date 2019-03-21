@@ -8,7 +8,7 @@
   <p><b>CSDN(ID): ChopenKing</b></p >
   <p><b>邮箱：1337761329@qq.com</b></p >
   </td>
-    <td width="36%">
+    <td width="100%">
       <img src="hentai.png" width="100%"> 
   </td>
  </tr>
